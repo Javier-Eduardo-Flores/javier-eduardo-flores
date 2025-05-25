@@ -17,6 +17,8 @@
 
 <h3 align="left">My Skills:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,next,nodejs,astro,python)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react)](https://skillicons.dev)
  <br>
  [![My Skills](https://skillicons.dev/icons?i=django,tailwind,typescript,sass,bootstrap)](https://skillicons.dev)
+ <br>
+ [![My Skills](https://skillicons.dev/icons?i=next,nodejs,astro,python)](https://skillicons.dev)
