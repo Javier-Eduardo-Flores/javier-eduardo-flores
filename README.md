@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi 👋, I'm Javier Flores
+<h3>I am a FrontEnd developer, a Systems Engineering student from Honduras. I like to develop tools through programming.</h3>
 
-<!--
-**Javier-Eduardo-Flores/javier-eduardo-flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+- 🌱 I’m currently learning **Python, Next.js, Django, TypeScript**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **javierfloresv30@gmail.com**
+- 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me 🤝:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/javier-flores-383804226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier flores" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">My Skills:</h3>
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,next,nodejs,astro,python)](https://skillicons.dev)
+ <br>
+ [![My Skills](https://skillicons.dev/icons?i=django,tailwind,typescript,sass,bootstrap)](https://skillicons.dev)
